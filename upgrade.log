@@ -1,0 +1,21 @@
+[2019-08-10T00:52:21.737Z] debug: [twx-studio:upgrade:Logical_Cabinet] Begin upgrade of project Logical_Cabinet
+[2019-08-10T00:52:21.738Z] info: [twx-studio:upgrade:Logical_Cabinet] Upgrading project Logical_Cabinet C:\Users\Z00422NC\Documents\VuforiaStudio\Projects\Logical_Cabinet from 1.41.1589 to 8.4.6.4436 (1.41.1589)
+[2019-08-10T00:52:21.746Z] debug: [twx-studio:upgrade:Logical_Cabinet] Make sure there are not any stale files lying around
+[2019-08-10T00:52:21.752Z] debug: [twx-studio:upgrade:Logical_Cabinet] Create .gitignore for project dir
+[2019-08-10T00:52:21.756Z] debug: [twx-studio:upgrade:Logical_Cabinet] Copying /src/**/* to project, overwrite=false
+[2019-08-10T00:52:21.760Z] debug: [twx-studio:upgrade:Logical_Cabinet] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-08-10T00:52:22.172Z] debug: [twx-studio:upgrade:Logical_Cabinet] Copy of project files complete
+[2019-08-10T00:52:22.172Z] debug: [twx-studio:upgrade:Logical_Cabinet] Updating version to  8.4.6.4436 (1.41.1589)
+[2019-08-10T00:52:22.172Z] debug: [twx-studio:upgrade:Logical_Cabinet] onupgrade sucessful, now build the project
+[2019-08-10T00:52:22.172Z] debug: [twx-studio:upgrade:Logical_Cabinet] BEGIN buildApp Logical_Cabinet_1565398342172
+[2019-08-10T00:52:22.172Z] debug: [twx-studio:upgrade:Logical_Cabinet] write settings
+[2019-08-10T00:52:22.179Z] debug: [twx-studio:upgrade:Logical_Cabinet] copy runtime extensions
+[2019-08-10T00:52:22.945Z] debug: [twx-studio:upgrade:Logical_Cabinet] packageThemeSet
+[2019-08-10T00:52:24.411Z] debug: [twx-studio:upgrade:Logical_Cabinet] onBuild
+[2019-08-10T00:52:24.411Z] info: [twx-studio:upgrade:Logical_Cabinet] Building ves-ar-extension app: Logical_Cabinet
+[2019-08-10T00:52:24.477Z] debug: [twx-studio:upgrade:Logical_Cabinet] pathDir C:\Users\Z00422NC\Documents\VuforiaStudio\Projects\Logical_Cabinet
+[2019-08-10T00:52:24.477Z] debug: [twx-studio:upgrade:Logical_Cabinet] scaffoldDir C:\Users\Z00422NC\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-08-10T00:52:24.477Z] debug: [twx-studio:upgrade:Logical_Cabinet] copySrc
+[2019-08-10T00:52:25.480Z] debug: [twx-studio:upgrade:Logical_Cabinet] buildApp
+[2019-08-10T00:52:26.111Z] debug: [twx-studio:upgrade:Logical_Cabinet] END buildApp Logical_Cabinet_1565398342172
+[2019-08-10T00:52:26.111Z] debug: [twx-studio:upgrade:Logical_Cabinet] Build succeeded.
