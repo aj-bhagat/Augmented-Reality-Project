@@ -17,6 +17,6 @@ Marker:
 ![Output Pic](https://github.com/aj-bhagat/Augmented-Reality-Project/blob/master/ThingMark.PNG)
 
 
-Final Output:
+**Final Output:**
 
 ![Output Pic](https://github.com/aj-bhagat/Augmented-Reality-Project/blob/master/Output.PNG)
